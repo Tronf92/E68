@@ -1,0 +1,26 @@
+﻿  E 68.cpp
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\angajat.h(4): error C2011: 'Angajat' : 'class' type redefinition
+          c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\angajat.h(4) : see declaration of 'Angajat'
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\sef.h(5): error C2504: 'Angajat' : base class undefined
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(7): error C2079: 'a1' uses undefined class 'Angajat'
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(7): error C2078: too many initializers
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(7): error C2440: 'initializing' : cannot convert from 'const char [9]' to 'int'
+          There is no context in which this conversion is possible
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(8): error C2079: 'a2' uses undefined class 'Angajat'
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(8): error C2078: too many initializers
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(8): error C2440: 'initializing' : cannot convert from 'const char [8]' to 'int'
+          There is no context in which this conversion is possible
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(11): error C2228: left of '.SetareDatePontaj' must have class/struct/union
+          type is 'int'
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(12): error C2228: left of '.SetareDatePontaj' must have class/struct/union
+          type is 'int'
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(13): error C2039: 'SetareDatePontaj' : is not a member of 'Sef'
+          c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\sef.h(3) : see declaration of 'Sef'
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(16): error C2228: left of '.Afisare' must have class/struct/union
+          type is 'int'
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(17): error C2228: left of '.Afisare' must have class/struct/union
+          type is 'int'
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(18): error C2039: 'Afisare' : is not a member of 'Sef'
+          c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\sef.h(3) : see declaration of 'Sef'
+c:\users\ady\documents\visual studio 2012\projects\e 68\e 68\e 68.cpp(20): error C2228: left of '.Salar' must have class/struct/union
+          type is 'int'
